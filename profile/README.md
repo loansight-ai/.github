@@ -61,3 +61,5 @@ KB Bridge 4조참치 · Fin AI Lab
 | 2026.10.28 | v2.1 보완·OFS·내부 관리 분리·연계 문서 최신화. 화면 실제 v0.0.2는 편집 한도로 미완료 |
 
 팀 품질관리 자료: [Notion](https://app.notion.com/p/40680be201ba81ddb717d75d409cde98)
+
+문서 개정 Issue·PR: https://github.com/loansight-ai/.github/issues/4 · https://github.com/loansight-ai/.github/pull/5

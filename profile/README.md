@@ -36,7 +36,7 @@ OpenDART 공시·재무제표와 주석을 바탕으로 분석하며, 확보된 
 - [기획·설계·테스트 문서](https://github.com/loansight-ai/docs)
 - [실행 코드](https://github.com/loansight-ai/code)
 - [Notion 기획 문서](https://app.notion.com/p/40080be201ba8159ae7fcd1aebce0000)
-- [이전 조직 소개 기록](history/README_20261112_before_service_overview.md)
+- [이전 조직 소개 기록](https://github.com/loansight-ai/.github/blob/main/profile/history/README_20261112_before_service_overview.md)
 
 ## 팀
 

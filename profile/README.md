@@ -1,6 +1,6 @@
 # LoanSight AI
 
-**기업 공시를 바탕으로 재무와 상환위험 징후를 살펴보는 여신 검토 지원 서비스**
+### **기업 공시를 바탕으로 재무와 상환위험 징후를 살펴보는 여신 검토 지원 서비스**
 
 LoanSight AI는 기업금융·여신심사 담당자가 흩어진 재무 수치와 공시 원문을 한 흐름에서 확인하고, 추가로 검토할 사항을 정리하도록 돕습니다.
 
@@ -35,7 +35,6 @@ OpenDART 공시·재무제표와 주석을 바탕으로 분석하며, 확보된 
 
 - [기획·설계·테스트 문서](https://github.com/loansight-ai/docs)
 - [실행 코드](https://github.com/loansight-ai/code)
-- [Notion 기획 문서](https://app.notion.com/p/40080be201ba8159ae7fcd1aebce0000)
 - [이전 조직 소개 기록](https://github.com/loansight-ai/.github/blob/main/profile/history/README_20261112_before_service_overview.md)
 
 ## 팀
